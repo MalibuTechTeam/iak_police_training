@@ -4,9 +4,12 @@
 
 ---
 
-Optimized YMAP for your police training
-
 ## Features
 
 - Location : 2001.69,3193.05,31.75 
 - Showcase : [Click Here](https://www.youtube.com/watch?v=jNMbRpyGug4)
+
+## DMCA Protection Certificate
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045074060989714479/image.png)
+
+##### Copyright © 2022 Malibú Tech. All rights reserved.
